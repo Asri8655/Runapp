@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Runapp/static/css/main.c6475f86.chunk.css",
+    "main.js": "/Runapp/static/js/main.c5afca95.chunk.js",
+    "main.js.map": "/Runapp/static/js/main.c5afca95.chunk.js.map",
+    "runtime-main.js": "/Runapp/static/js/runtime-main.82c03490.js",
+    "runtime-main.js.map": "/Runapp/static/js/runtime-main.82c03490.js.map",
+    "static/css/2.8c8f3650.chunk.css": "/Runapp/static/css/2.8c8f3650.chunk.css",
+    "static/js/2.84f0fcaf.chunk.js": "/Runapp/static/js/2.84f0fcaf.chunk.js",
+    "static/js/2.84f0fcaf.chunk.js.map": "/Runapp/static/js/2.84f0fcaf.chunk.js.map",
+    "static/js/3.b8483fa0.chunk.js": "/Runapp/static/js/3.b8483fa0.chunk.js",
+    "static/js/3.b8483fa0.chunk.js.map": "/Runapp/static/js/3.b8483fa0.chunk.js.map",
+    "index.html": "/Runapp/index.html",
+    "static/css/2.8c8f3650.chunk.css.map": "/Runapp/static/css/2.8c8f3650.chunk.css.map",
+    "static/css/main.c6475f86.chunk.css.map": "/Runapp/static/css/main.c6475f86.chunk.css.map",
+    "static/js/2.84f0fcaf.chunk.js.LICENSE.txt": "/Runapp/static/js/2.84f0fcaf.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css?raw": "/Runapp/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82c03490.js",
+    "static/css/2.8c8f3650.chunk.css",
+    "static/js/2.84f0fcaf.chunk.js",
+    "static/css/main.c6475f86.chunk.css",
+    "static/js/main.c5afca95.chunk.js"
+  ]
+}
