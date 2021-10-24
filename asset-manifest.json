@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Runapp/static/css/main.05925dde.chunk.css",
-    "main.js": "/Runapp/static/js/main.f66bd2aa.chunk.js",
-    "main.js.map": "/Runapp/static/js/main.f66bd2aa.chunk.js.map",
-    "runtime-main.js": "/Runapp/static/js/runtime-main.e7646ef0.js",
-    "runtime-main.js.map": "/Runapp/static/js/runtime-main.e7646ef0.js.map",
+    "main.css": "/Runapp/static/css/main.c3dc5b50.chunk.css",
+    "main.js": "/Runapp/static/js/main.2b31bce5.chunk.js",
+    "main.js.map": "/Runapp/static/js/main.2b31bce5.chunk.js.map",
+    "runtime-main.js": "/Runapp/static/js/runtime-main.27942cb0.js",
+    "runtime-main.js.map": "/Runapp/static/js/runtime-main.27942cb0.js.map",
     "static/css/2.8c8f3650.chunk.css": "/Runapp/static/css/2.8c8f3650.chunk.css",
-    "static/js/2.b2c2e36a.chunk.js": "/Runapp/static/js/2.b2c2e36a.chunk.js",
-    "static/js/2.b2c2e36a.chunk.js.map": "/Runapp/static/js/2.b2c2e36a.chunk.js.map",
-    "static/js/3.6d0c3466.chunk.js": "/Runapp/static/js/3.6d0c3466.chunk.js",
-    "static/js/3.6d0c3466.chunk.js.map": "/Runapp/static/js/3.6d0c3466.chunk.js.map",
+    "static/js/2.b1ca1ae6.chunk.js": "/Runapp/static/js/2.b1ca1ae6.chunk.js",
+    "static/js/2.b1ca1ae6.chunk.js.map": "/Runapp/static/js/2.b1ca1ae6.chunk.js.map",
+    "static/js/3.b6152931.chunk.js": "/Runapp/static/js/3.b6152931.chunk.js",
+    "static/js/3.b6152931.chunk.js.map": "/Runapp/static/js/3.b6152931.chunk.js.map",
     "index.html": "/Runapp/index.html",
     "static/css/2.8c8f3650.chunk.css.map": "/Runapp/static/css/2.8c8f3650.chunk.css.map",
-    "static/css/main.05925dde.chunk.css.map": "/Runapp/static/css/main.05925dde.chunk.css.map",
-    "static/js/2.b2c2e36a.chunk.js.LICENSE.txt": "/Runapp/static/js/2.b2c2e36a.chunk.js.LICENSE.txt",
+    "static/css/main.c3dc5b50.chunk.css.map": "/Runapp/static/css/main.c3dc5b50.chunk.css.map",
+    "static/js/2.b1ca1ae6.chunk.js.LICENSE.txt": "/Runapp/static/js/2.b1ca1ae6.chunk.js.LICENSE.txt",
     "static/media/2103 087.ecf3c73c.jpg": "/Runapp/static/media/2103 087.ecf3c73c.jpg",
     "static/media/font-awesome.min.css?raw": "/Runapp/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7646ef0.js",
+    "static/js/runtime-main.27942cb0.js",
     "static/css/2.8c8f3650.chunk.css",
-    "static/js/2.b2c2e36a.chunk.js",
-    "static/css/main.05925dde.chunk.css",
-    "static/js/main.f66bd2aa.chunk.js"
+    "static/js/2.b1ca1ae6.chunk.js",
+    "static/css/main.c3dc5b50.chunk.css",
+    "static/js/main.2b31bce5.chunk.js"
   ]
 }
